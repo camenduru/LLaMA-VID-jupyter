@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaMA-VID-jupyter/blob/main/LLaMA_VID_gradio_jupyter.ipynb) | LLaMA_VID_gradio_jupyter (High-RAM 😐)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaMA-VID-jupyter/blob/main/LLaMA_VID_gradio_jupyter.ipynb) | LLaMA_VID_gradio_jupyter
 
 ### 🧬 Code
 https://github.com/dvlab-research/LLaMA-VID
